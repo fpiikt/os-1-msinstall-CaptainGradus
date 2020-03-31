@@ -1,0 +1,1 @@
+jre-8u241-windows-x64.exe INSTALLCFG="C:\Users\renor\Projects\Operational Systems\lab_1\JRE-install-config.txt" /L "C:\Users\renor\Projects\Operational Systems\lab_1\jre-log.txt"
