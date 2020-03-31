@@ -17,7 +17,7 @@
 - `msiexec /i "Notepad++ (64-bit x64).msi" /quiet`
 ---
 #### Установка JRE 8
-Скрипт представлен в файле `lab_1\JRE-autoinstall.bat`, а параметры в `lab_1\JRE-install-config.txt`
+Скрипт представлен в файле `JRE-autoinstall.bat`, а параметры в `JRE-install-config.txt`
 Комманда:
 - `jre-8u241-windows-x64.exe INSTALLCFG="C:\Users\renor\Projects\Operational Systems\lab_1\JRE-install-config.txt" /L "C:\Users\renor\Projects\Operational Systems\lab_1\jre-log.txt"`
 
